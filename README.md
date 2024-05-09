@@ -4,4 +4,4 @@ Questo progetto ha l'intento di mostrare come collegare tra loro varie pagine we
 - esempio di tabelle in xhtml
 - esempio di liste in xhtml
 
-:lemon :sax
+🍋 🎷
